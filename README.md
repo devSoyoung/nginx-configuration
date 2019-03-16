@@ -124,4 +124,4 @@ stop은 프로세스를 바로 종료, quit는 현재 커넥션이 모두 종료
 * [opentutorials - NGINX 환경설정](https://opentutorials.org/module/384/4526)
 * [nginx 설정 정리](http://bong8nim.com/post/programming/etc/nginx-config-manual/)
 * [Nginx 주요 설정(nginx.conf)](https://sarc.io/index.php/nginx/61-nginx-nginx-conf)
-
+* [명령어로 NGINX 컨트롤하기](https://gongzza.github.io/linux/how-to-control-nginx/)
